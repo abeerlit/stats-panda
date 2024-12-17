@@ -1,0 +1,611 @@
+@import '@/components/SharedSearchBar.css';
+
+/* Add closing curly brace */
+
+/* Main container */
+.each-entity-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background-color: #fff; /* White background for content */
+  animation: fadeIn 0.5s ease-in;
+}
+
+.title-container {
+  width: 100%;
+  text-align: center; /* Center inline-block elements */
+  margin-bottom: 40px;
+}
+
+.shared-search-bar-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto; /* Center the search bar */
+  position: relative;
+}
+
+/* Style for the search input field */
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Centered page title */
+.page-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(to left, #ffcccc, white);
+  border-right: 2px solid red;
+  display: inline-block;
+  padding: 1rem 0;
+  margin: 0 auto;
+}
+
+/* Population headings */
+.population-heading,
+.population-value {
+  text-align: center;
+  color: #000; /* Black text color */
+  margin: 0;
+}
+
+.population-heading {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.population-value {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+/* Content layout */
+.content-split {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.content-left {
+  flex: 0 0 15%;
+  max-width: 15%;
+  margin-bottom: 1rem;
+  padding-top: 0; /* Removed top padding */
+}
+
+.content-right {
+  flex: 0 0 70%;
+  max-width: 70%;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Entity details */
+.entity-details {
+  margin: 0;
+  padding: 0;
+  background-color: transparent; /* Removed background */
+  box-shadow: none; /* Removed box-shadow */
+}
+
+.entity-details h3 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1rem;
+}
+
+.entity-details p {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #3498db;
+}
+
+/* Divider line */
+.entity-divider {
+  border: none;
+  border-bottom: 1px solid #ccc; /* Single pixel line */
+  margin: 0.5rem 0;
+}
+
+/* Removed hover effects */
+.entity-details:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+/* Content left paragraph */
+.content-left-paragraph {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Main entity content */
+.main-entity-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* About paragraphs */
+.about-paragraphs-each-entity {
+  margin-bottom: 2rem;
+}
+
+.about-paragraphs-each-entity h3 {
+  font-size: 1.3rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.about-paragraphs-each-entity p {
+  margin-bottom: 1rem;
+}
+
+/* Red content divider base styles */
+.red-content-divider {
+  height: 50px;
+  margin: 3rem 0;
+  width: 99.3vw; /* Takes up full viewport width */
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  /* Remove border radius */
+  border-radius: 0;
+}
+
+/* Gradient from left to right */
+.red-content-divider.left-to-right {
+  background: linear-gradient(to right, #ffcccc, white);
+  border-left: 3px solid #fc5736; /* Add vertical line on the left */
+}
+
+/* Gradient from right to left */
+.red-content-divider.right-to-left {
+  background: linear-gradient(to left, #ffcccc, white);
+  border-right: 3px solid #fc5736; /* Add vertical line on the right */
+}
+
+/* Data visualization section */
+.data-viz-each-entity {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.population-pyramid-each-entity {
+  flex: 1;
+  min-width: 300px;
+  background-color: #fff;
+}
+
+.population-pyramid-each-entity h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.median-age-section {
+  flex: 1;
+  min-width: 300px;
+}
+
+.median-age-section h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.median-age-content {
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.median-age-content p {
+  margin: 0.5rem 0;
+}
+
+.pyramid-container {
+  width: 100%;
+  /* height: 300px; Set a fixed height or adjust as needed */
+  position: relative;
+}
+
+.pyramid-tooltip {
+  font-size: 0.9rem;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.bar {
+  cursor: pointer;
+}
+
+.age-label {
+  font-size: 10px;
+  fill: #000;
+}
+
+.median-age-section {
+  width: 100%;
+  max-width: 400px; /* Adjust as needed */
+  margin: 0 auto; /* Center the section */
+}
+
+.median-age-content {
+  margin-top: 10px;
+}
+
+.median-age-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0; /* Adjust vertical spacing */
+}
+
+.median-age-value {
+  text-align: left;
+  flex: 1;
+}
+
+.median-age-label {
+  text-align: right;
+  flex: 1;
+}
+
+.entity-divider {
+  border: none;
+  border-top: 1px solid #ccc; /* Adjust color */
+  margin: 0; /* Remove default margins */
+}
+
+/* Additional data sections */
+.additional-content-split {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.additional-content-left {
+  flex: 0 0 40%;
+  max-width: 40%;
+}
+
+.additional-content-right {
+  /* flex: 0 0 60%;
+  max-width: 60%; */
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.city-list-item {
+  margin-bottom: 0.5rem;
+}
+
+/* Highlight class for city list items */
+.highlight {
+  background-color: #ffcccb;
+}
+
+/* Population Change Section */
+.population-change-section {
+  margin: 3rem 0;
+}
+
+.population-change-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.population-change-left,
+.population-change-right {
+  flex: 1;
+}
+
+.population-change-left h3,
+.population-change-right h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+/* Progress Bars */
+.population-component {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.population-component p {
+  flex: 1;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.progress-bar {
+  flex: 1;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 20px;
+  margin-left: 1rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #7ebf7c; /* Default color */
+  animation-name: progressAnimation;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+/* Keyframes for the progress bar animation */
+@keyframes progressAnimation {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* Birth interval bar */
+.progress-fill.birth-progress {
+  background-color: #7ebf7c;
+}
+
+/* Death interval bar */
+.progress-fill.death-progress {
+  background-color: #f0868a;
+}
+
+/* Migration interval bar */
+.progress-fill.migration-progress {
+  background-color: #455f7c;
+}
+
+/* Net change interval bar */
+.progress-fill.net-change-progress {
+  background-color: #7ebf7c; /* Adjust if you want a different color */
+}
+
+/* Population Clock Table */
+.population-clock-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.population-clock-table tr {
+  /* No background here */
+}
+
+.population-clock-table td {
+  padding: 0.5rem;
+  border: none;
+}
+
+.population-clock-table tr:nth-child(even) {
+  border-left: 3px solid red; /* Border only on gradient rows */
+}
+
+.population-clock-table tr:nth-child(odd) td {
+  background-color: white;
+}
+
+.population-clock-table tr:nth-child(even) td {
+  background: linear-gradient(to right, #ffcccc, white);
+}
+
+.population-clock-table td:first-child {
+  font-weight: bold;
+}
+
+/* Notable info section */
+.notable-info {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.notable-sports-teams,
+.notable-food {
+  flex: 1;
+  background-color: #f8f8f8;
+  padding: 1.5rem;
+  border-radius: 4px;
+  box-shadow: none; /* Removed box-shadow */
+}
+
+.notable-sports-teams h3,
+.notable-food h3 {
+  font-size: 1.3rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.notable-sports-teams ul,
+.notable-food ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.notable-sports-teams li,
+.notable-food li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Sources section */
+.sources {
+  margin-bottom: 3rem;
+}
+
+.sources h3 {
+  font-size: 1.3rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.sources ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sources li {
+  margin-bottom: 0.5rem;
+}
+
+.sources a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.sources a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+/* Entity grid */
+.entity-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px; /* Add space between search bar and grid */
+}
+
+.entity-item {
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: #333;
+  transition:
+    background-color 0.3s ease,
+    transform 0.3s ease;
+}
+
+.entity-item:hover {
+  transform: translateY(-5px);
+  background-color: #e0e0e0;
+  color: #fc5736;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.each-entity-container {
+  animation: fadeIn 0.5s ease-in;
+}
+
+/* Adjusting margins */
+.content-left {
+  margin-bottom: 1rem;
+}
+
+.content-right {
+  margin-bottom: 1rem;
+}
+
+.each-entity--related-topics-wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 36px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .each-entity-container {
+    padding: 5px;
+  }
+
+  .each-entity--related-topics-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .content-split {
+    flex-direction: column-reverse;
+  }
+
+  .content-left,
+  .content-right {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .content-right {
+    order: -1; /* Move content-right to the top */
+    align-items: flex-start; /* Reset alignment */
+  }
+
+  .additional-content-split {
+    flex-direction: column;
+  }
+
+  .additional-content-left {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .additional-content-right {
+    align-self: center;
+  }
+
+  .data-viz-each-entity {
+    flex-direction: column;
+  }
+
+  .notable-info {
+    flex-direction: column;
+  }
+
+  .notable-sports-teams,
+  .notable-food {
+    width: 100%;
+  }
+
+  .entity-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .population-change-content {
+    flex-direction: column;
+  }
+
+  .entity-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .each-entity--related-topics-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

@@ -1,0 +1,157 @@
+/* LiveCounters.css */
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.live-counter-container {
+  width: 800px;
+  max-width: 90%;
+  padding: 24px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.mini-live-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.nav-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #111827;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.nav-button {
+  padding: 8px 16px;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  color: #4b5563;
+  cursor: pointer;
+  transition: all 0.2s;
+  outline: none; /* Removes the focus outline */
+}
+
+.nav-button:focus {
+  outline: none; /* Ensures there's no outline when the button is focused */
+}
+
+.nav-button:hover {
+  color: #fc5736;
+}
+.nav-button.active {
+  background-color: #fff2ee;
+  color: #fc5736;
+}
+
+.counter-content-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  background-color: #eef2ff;
+  padding: 16px;
+  border-radius: 6px;
+}
+
+.quadrant-container {
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.quadrant-title {
+  padding: 16px;
+  font-weight: 500;
+  color: #111827;
+  background-color: white;
+}
+
+.holds-counter-data {
+  background-color: white;
+}
+
+.counter-field-live-data {
+  padding: 12px 16px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.counter-field-live-data:last-child {
+  border-bottom: none;
+}
+
+.field-label {
+  color: #4b5563;
+  font-size: 0.875rem;
+}
+
+.field-value {
+  font-family: monospace;
+  font-size: 0.875rem;
+  color: #111827;
+}
+
+/* New styles for the messages */
+.message-container {
+  background-color: #eef2ff;
+  padding: 24px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.message-container h2 {
+  font-size: 1.5rem;
+  color: #111827;
+}
+
+.message-container p {
+  font-size: 1rem;
+  color: #4b5563;
+  line-height: 1.5;
+}
+
+.message-container a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.message-container a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .live-counter-container {
+    width: 95%;
+    padding: 16px;
+  }
+
+  .counter-content-container {
+    grid-template-columns: 1fr;
+  }
+
+  .mini-live-nav {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .nav-buttons {
+    width: 100%;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,49 @@
+/* SharedSearchBar.css */
+.shared-search-bar-container {
+  position: relative;
+  width: 50%;
+  max-width: 600px; /* Increased the max width for a more balanced layout */
+  margin: 0 auto; /* Centers the search bar container horizontally */
+  margin-top: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center; /* Ensures content inside the container is centered */
+}
+
+.search-bar {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 75%;
+  height: 36px;
+  padding: 0 15px;
+  padding-right: 40px; /* Adjust space for the icon */
+  border: 1px solid rgba(232, 231, 251, 0.7);
+  border-radius: 20px;
+  font-size: 16px;
+  background-color: #fff8f8;
+  color: #333;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  outline: none;
+  transition: box-shadow 0.3s ease;
+}
+
+.search-bar::placeholder {
+  color: rgba(119, 119, 163, 0.6);
+  font-size: 16px;
+}
+
+.search-bar:focus {
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  border-color: rgba(128, 126, 163, 0.7);
+  outline: none;
+}
+
+.search-icon {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #888;
+  cursor: pointer;
+}

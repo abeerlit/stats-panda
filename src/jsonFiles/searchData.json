@@ -1,0 +1,3567 @@
+[
+  {
+    "title": "Abortion Legalities",
+    "link": "/Countries/AbortionLegalities",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Abortion Rates",
+    "link": "/Countries/AbortionRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Age of Consent",
+    "link": "/Countries/AgeofConsent",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Aircraft Carriers",
+    "link": "/Countries/AircraftCarriers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Alcohol Consumption",
+    "link": "/Countries/AlcoholConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "ArableLand",
+    "link": "/Countries/ArableLand",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Autism Rates",
+    "link": "/Countries/AutismRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Age to Lose Virginity",
+    "link": "/Countries/AverageAgetoLoseVirginity",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Height",
+    "link": "/Countries/AverageHeight",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average IQ",
+    "link": "/Countries/AverageIQ",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Number of Sexual Partners",
+    "link": "/Countries/AverageNumberofSexualPartners",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Workweek",
+    "link": "/Countries/AverageWorkweek",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Banana Production",
+    "link": "/Countries/BananaProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Beer Consumption",
+    "link": "/Countries/BeerConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Best Healthcare",
+    "link": "/Countries/BestHealthcare",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Best to live in",
+    "link": "/Countries/Besttolivein",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "BigMac Index",
+    "link": "/Countries/BigMacIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Birth Rate",
+    "link": "/Countries/BirthRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Breast Size",
+    "link": "/Countries/BreastSize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "British Commonwealth",
+    "link": "/Countries/BritishCommonwealth",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Buddhist",
+    "link": "/Countries/Buddhist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "CO2 Emissions",
+    "link": "/Countries/CO2Emissions",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cancer Rate",
+    "link": "/Countries/CancerRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cancer Survival Rate",
+    "link": "/Countries/CancerSurvivalRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Capatalists",
+    "link": "/Countries/Capatalists",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Car Accidents",
+    "link": "/Countries/CarAccidents",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Catholic",
+    "link": "/Countries/Catholic",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cell Phones",
+    "link": "/Countries/CellPhones",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cheapest European",
+    "link": "/Countries/CheapestEuropean",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cheapest To Live In",
+    "link": "/Countries/CheapestToLiveIn",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Child trafficking",
+    "link": "/Countries/Childtrafficking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Children",
+    "link": "/Countries/Children",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Circumcision",
+    "link": "/Countries/Circumcision",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cleanest",
+    "link": "/Countries/Cleanest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cocoa Production",
+    "link": "/Countries/CocoaProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Coffe Consumption",
+    "link": "/Countries/CoffeConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Coffee Production ",
+    "link": "/Countries/CoffeeProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cooperate Tax Rates",
+    "link": "/Countries/CooperateTaxRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cost of Insulin",
+    "link": "/Countries/CostofInsulin",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cost of Living",
+    "link": "/Countries/CostofLiving",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "CottonProduction",
+    "link": "/Countries/CottonProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Crime Rate ",
+    "link": "/Countries/CrimeRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Currently at War",
+    "link": "/Countries/CurrentlyatWar",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "D-Day Casualties",
+    "link": "/Countries/D-DayCasualties",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Death Rate",
+    "link": "/Countries/DeathRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Debt to GDP",
+    "link": "/Countries/DebttoGDP",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Declining Population",
+    "link": "/Countries/DecliningPopulation",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Democracy Index",
+    "link": "/Countries/DemocracyIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Depression Rate",
+    "link": "/Countries/DepressionRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Developed",
+    "link": "/Countries/Developed",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Diabetes Rates",
+    "link": "/Countries/DiabetesRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Divorce Rates",
+    "link": "/Countries/DivorceRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Dog Meat Consumption",
+    "link": "/Countries/DogMeatConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Drug Use",
+    "link": "/Countries/DrugUse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Education Rankings",
+    "link": "/Countries/EducationRankings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Employment in Agriculture by Country",
+    "link": "/Countries/EmploymentinAgriculturebyCountry",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "English Speaking",
+    "link": "/Countries/EnglishSpeaking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Exports",
+    "link": "/Countries/Exports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Facebook Users",
+    "link": "/Countries/FacebookUsers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fastest Growing Economies",
+    "link": "/Countries/FastestGrowingEconomies",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fertility Rates",
+    "link": "/Countries/FertilityRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fifa World Cup Wins",
+    "link": "/Countries/FifaWorldCupWins",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Freedom Index",
+    "link": "/Countries/FreedomIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Freest",
+    "link": "/Countries/Freest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Friendliest",
+    "link": "/Countries/Friendliest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "GDP",
+    "link": "/Countries/GDP",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "GDP Per Capita",
+    "link": "/Countries/GDPPerCapita",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gini Coefficient",
+    "link": "/Countries/GiniCoefficient",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gold Reserves",
+    "link": "/Countries/GoldReserves",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Greenhouse Gas Emissions",
+    "link": "/Countries/GreenhouseGasEmissions",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gun Deaths",
+    "link": "/Countries/GunDeaths",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gun Ownership",
+    "link": "/Countries/GunOwnership",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "HDI",
+    "link": "/Countries/HDI",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "HIV Rates",
+    "link": "/Countries/HIVRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Happiest",
+    "link": "/Countries/Happiest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Healthcare Wait Times",
+    "link": "/Countries/HealthcareWaitTimes",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Healthiest",
+    "link": "/Countries/Healthiest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "High-Income",
+    "link": "/Countries/High-Income",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Highest Taxed Countries",
+    "link": "/Countries/HighestTaxedCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Hindu",
+    "link": "/Countries/Hindu",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Immidration",
+    "link": "/Countries/Immidration",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Infant Mortality Rate",
+    "link": "/Countries/InfantMortalityRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Inflation Rate",
+    "link": "/Countries/InflationRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Internet Speeds",
+    "link": "/Countries/InternetSpeeds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Internet Users",
+    "link": "/Countries/InternetUsers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Jewish",
+    "link": "/Countries/Jewish",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Airforces",
+    "link": "/Countries/LargestAirforces",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Airports",
+    "link": "/Countries/LargestAirports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Navy",
+    "link": "/Countries/LargestNavy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Latin Speaking",
+    "link": "/Countries/LatinSpeaking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Corrupt",
+    "link": "/Countries/LeastCorrupt",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Racist",
+    "link": "/Countries/LeastRacist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Religious",
+    "link": "/Countries/LeastReligious",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Life Expectancy",
+    "link": "/Countries/LifeExpectancy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Literacy Rate",
+    "link": "/Countries/LiteracyRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Mass Shootings",
+    "link": "/Countries/MassShootings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Maternity Leave",
+    "link": "/Countries/MaternityLeave",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Meat Consumption",
+    "link": "/Countries/MeatConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Median Age",
+    "link": "/Countries/MedianAge",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Military Size",
+    "link": "/Countries/MilitarySize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Military Spending",
+    "link": "/Countries/MilitarySpending",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Millionaires",
+    "link": "/Countries/Millionaires",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Minimum Wage",
+    "link": "/Countries/MinimumWage",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Missing Persons",
+    "link": "/Countries/MissingPersons",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Monarchy",
+    "link": "/Countries/Monarchy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Christian",
+    "link": "/Countries/MostChristian",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Conservative",
+    "link": "/Countries/MostConservative",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Dangerous",
+    "link": "/Countries/MostDangerous",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Dangerous for Women",
+    "link": "/Countries/MostDangerousforWomen",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Depressed",
+    "link": "/Countries/MostDepressed",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Diverse",
+    "link": "/Countries/MostDiverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Educated",
+    "link": "/Countries/MostEducated",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Expensive to Live in",
+    "link": "/Countries/MostExpensivetoLivein",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Hated",
+    "link": "/Countries/MostHated",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Liberal ",
+    "link": "/Countries/MostLiberal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Miss Universe",
+    "link": "/Countries/MostMissUniverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Peaceful",
+    "link": "/Countries/MostPeaceful",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Polluted",
+    "link": "/Countries/MostPolluted",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Popular Sports",
+    "link": "/Countries/MostPopularSports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Powerful",
+    "link": "/Countries/MostPowerful",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Racially Diverse",
+    "link": "/Countries/MostRaciallyDiverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Racist",
+    "link": "/Countries/MostRacist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Technologically Advanced ",
+    "link": "/Countries/MostTechnologicallyAdvanced",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Violent",
+    "link": "/Countries/MostViolent",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Visited",
+    "link": "/Countries/MostVisited",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Murder Rate",
+    "link": "/Countries/MurderRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Muslim",
+    "link": "/Countries/Muslim",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Muslim Population",
+    "link": "/Countries/MuslimPopulation",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "NATO",
+    "link": "/Countries/NATO",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "NATO Spending",
+    "link": "/Countries/NATOSpending",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "National Debt",
+    "link": "/Countries/NationalDebt",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Newest",
+    "link": "/Countries/Newest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Nobel Prize Winners",
+    "link": "/Countries/NobelPrizeWinners",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Number of Olympic Medals",
+    "link": "/Countries/NumberofOlympicMedals",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Obesity Rate",
+    "link": "/Countries/ObesityRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oil Consumption",
+    "link": "/Countries/OilConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oil Reserves",
+    "link": "/Countries/OilReserves",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oldest",
+    "link": "/Countries/Oldest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "PISA Scores",
+    "link": "/Countries/PISAScores",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Pennis Size",
+    "link": "/Countries/PennisSize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Percentage of Redheads",
+    "link": "/Countries/PercentageofRedheads",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Poorest",
+    "link": "/Countries/Poorest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Population Density ",
+    "link": "/Countries/PopulationDensity",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Poverty Rate",
+    "link": "/Countries/PovertyRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Rape Statistics",
+    "link": "/Countries/RapeStatistics",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Religion By",
+    "link": "/Countries/ReligionBy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Rice Production",
+    "link": "/Countries/RiceProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Richest",
+    "link": "/Countries/Richest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "STD Rate",
+    "link": "/Countries/STDRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Safest in the World",
+    "link": "/Countries/SafestintheWorld",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "School Shootings",
+    "link": "/Countries/SchoolShootings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Sex Ratio",
+    "link": "/Countries/SexRatio",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Smartest",
+    "link": "/Countries/Smartest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Smoking Rate",
+    "link": "/Countries/SmokingRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Soybean Production",
+    "link": "/Countries/SoybeanProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Stabbing Deaths",
+    "link": "/Countries/StabbingDeaths",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Submarines",
+    "link": "/Countries/Submarines",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Sugar Production",
+    "link": "/Countries/SugarProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Suicide Rate",
+    "link": "/Countries/SuicideRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Tax Free Countries",
+    "link": "/Countries/TaxFreeCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Tax Haven Countries",
+    "link": "/Countries/TaxHavenCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Do Not Celebrate Christmas",
+    "link": "/Countries/ThatDoNotCelebrateChristmas",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Dont Use The Metric System",
+    "link": "/Countries/ThatDontUseTheMetricSystem",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Drive on Left",
+    "link": "/Countries/ThatDriveonLeft",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Drive on Right ",
+    "link": "/Countries/ThatDriveonRight",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Recognizes Taiwan",
+    "link": "/Countries/ThatRecognizesTaiwan",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Still Have Slavery",
+    "link": "/Countries/ThatStillHaveSlavery",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Use Farenheit",
+    "link": "/Countries/ThatUseFarenheit",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "U.S. Oil Imports",
+    "link": "/Countries/U.S.OilImports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Unemployment",
+    "link": "/Countries/Unemployment",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Universal Healthcare",
+    "link": "/Countries/UniversalHealthcare",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Use of Dollar",
+    "link": "/Countries/UseofDollar",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Use of Pounds",
+    "link": "/Countries/UseofPounds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Violent Crime Rate",
+    "link": "/Countries/ViolentCrimeRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Voter Turnout",
+    "link": "/Countries/VoterTurnout",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "WW2 Casualties",
+    "link": "/Countries/WW2Casualties",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "WW3",
+    "link": "/Countries/WW3",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wealth Inequality",
+    "link": "/Countries/WealthInequality",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wheat Production",
+    "link": "/Countries/WheatProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where Alchohol is Illegal",
+    "link": "/Countries/WhereAlchoholisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where Prostitution is Illegal",
+    "link": "/Countries/WhereProstitutionisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where guns are illegal",
+    "link": "/Countries/Wheregunsareillegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where porn is Illegal",
+    "link": "/Countries/WherepornisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wine Production",
+    "link": "/Countries/WineProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Nuclear Weapons",
+    "link": "/Countries/WithNuclearWeapons",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Presidents",
+    "link": "/Countries/WithPresidents",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Royal Families",
+    "link": "/Countries/WithRoyalFamilies",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Without Extradition",
+    "link": "/Countries/WithoutExtradition",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Without McDonalds",
+    "link": "/Countries/WithoutMcDonalds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Worst to Live In",
+    "link": "/Countries/WorsttoLiveIn",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "AFC Teams",
+    "link": "/UsStates/AFCTeams",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Abortions Due to Rate",
+    "link": "/UsStates/AbortionsDuetoRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Age A Child Can Be Left Home Alone",
+    "link": "/UsStates/AgeAChildCanBeLeftHomeAlone",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Age of Consent",
+    "link": "/UsStates/AgeofConsent",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Age of Majority",
+    "link": "/UsStates/AgeofMajority",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Age to Start Kindergarten",
+    "link": "/UsStates/AgetoStartKindergarten",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Air Quality",
+    "link": "/UsStates/AirQuality",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Alcohol Consumption",
+    "link": "/UsStates/AlcoholConsumption",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Alcohol Tax",
+    "link": "/UsStates/AlcoholTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Amish",
+    "link": "/UsStates/Amish",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Anonymous Lottery",
+    "link": "/UsStates/AnonymousLottery",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Asian Population",
+    "link": "/UsStates/AsianPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Assisted Living Costs",
+    "link": "/UsStates/AssistedLivingCosts",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "At-Will Employment",
+    "link": "/UsStates/At-WillEmployment",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average ACT Score",
+    "link": "/UsStates/AverageACTScore",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Family Income",
+    "link": "/UsStates/AverageFamilyIncome",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Funeral Costs",
+    "link": "/UsStates/AverageFuneralCosts",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Height",
+    "link": "/UsStates/AverageHeight",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Household Size",
+    "link": "/UsStates/AverageHouseholdSize",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average IQ",
+    "link": "/UsStates/AverageIQ",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Income",
+    "link": "/UsStates/AverageIncome",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Internet Speed",
+    "link": "/UsStates/AverageInternetSpeed",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average Retirement Income",
+    "link": "/UsStates/AverageRetirementIncome",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Average rent",
+    "link": "/UsStates/Averagerent",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "BAC Limit",
+    "link": "/UsStates/BACLimit",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Banned Critical Race Theory",
+    "link": "/UsStates/BannedCriticalRaceTheory",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Beef Production",
+    "link": "/UsStates/BeefProduction",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best To Raise A Family",
+    "link": "/UsStates/BestToRaiseAFamily",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best To Retire",
+    "link": "/UsStates/BestToRetire",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best To Start A Business",
+    "link": "/UsStates/BestToStartABusiness",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best Weather",
+    "link": "/UsStates/BestWeather",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best for Education",
+    "link": "/UsStates/BestforEducation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Best for Teachers",
+    "link": "/UsStates/BestforTeachers",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Birth Rate",
+    "link": "/UsStates/BirthRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Black Population",
+    "link": "/UsStates/BlackPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Blue",
+    "link": "/UsStates/Blue",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Blue Laws",
+    "link": "/UsStates/BlueLaws",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Brass Knuckles Legality",
+    "link": "/UsStates/BrassKnucklesLegality",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Busiest Airports",
+    "link": "/UsStates/BusiestAirports",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "CBD Legal",
+    "link": "/UsStates/CBDLegal",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cancer Rates",
+    "link": "/UsStates/CancerRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Capital Gains Tax",
+    "link": "/UsStates/CapitalGainsTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Car Dealer Fees",
+    "link": "/UsStates/CarDealerFees",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Car Registrations Fees",
+    "link": "/UsStates/CarRegistrationsFees",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Car Sales Tax",
+    "link": "/UsStates/CarSalesTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Castle Doctrine",
+    "link": "/UsStates/CastleDoctrine",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cheapest Land",
+    "link": "/UsStates/CheapestLand",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cheapest To Live In",
+    "link": "/UsStates/CheapestToLiveIn",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Child Care Costs",
+    "link": "/UsStates/ChildCareCosts",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Child Support Percentage",
+    "link": "/UsStates/ChildSupportPercentage",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cigarette Prices",
+    "link": "/UsStates/CigarettePrices",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Circumcision Rate",
+    "link": "/UsStates/CircumcisionRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Civil War Casualties",
+    "link": "/UsStates/CivilWarCasualties",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Coastline Length",
+    "link": "/UsStates/CoastlineLength",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Common Core",
+    "link": "/UsStates/CommonCore",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Common Law Marriage",
+    "link": "/UsStates/CommonLawMarriage",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Community Property",
+    "link": "/UsStates/CommunityProperty",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Constitutional Carry",
+    "link": "/UsStates/ConstitutionalCarry",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Corn Production",
+    "link": "/UsStates/CornProduction",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Corporate Tax Rate",
+    "link": "/UsStates/CorporateTaxRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cost of Illegal Immigration",
+    "link": "/UsStates/CostofIllegalImmigration",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Cost of Living",
+    "link": "/UsStates/CostofLiving",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Crime Rate",
+    "link": "/UsStates/CrimeRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Death Rate",
+    "link": "/UsStates/DeathRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Death with Dignity",
+    "link": "/UsStates/DeathwithDignity",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Debt",
+    "link": "/UsStates/Debt",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Delegate Count",
+    "link": "/UsStates/DelegateCount",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Diesel Fuel Prices",
+    "link": "/UsStates/DieselFuelPrices",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Divorce Rate",
+    "link": "/UsStates/DivorceRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Domestic Violence",
+    "link": "/UsStates/DomesticViolence",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Drinking Age",
+    "link": "/UsStates/DrinkingAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Drivers License Cost",
+    "link": "/UsStates/DriversLicenseCost",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Driving Age",
+    "link": "/UsStates/DrivingAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Drug Use",
+    "link": "/UsStates/DrugUse",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Dumbest",
+    "link": "/UsStates/Dumbest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "EZ Pass Cost",
+    "link": "/UsStates/EZPassCost",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Educational Attainment",
+    "link": "/UsStates/EducationalAttainment",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Electoral Votes",
+    "link": "/UsStates/ElectoralVotes",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Electricity Cost",
+    "link": "/UsStates/ElectricityCost",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Fastest Growing",
+    "link": "/UsStates/FastestGrowing",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Fatal Car Accidents",
+    "link": "/UsStates/FatalCarAccidents",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Federal Aid",
+    "link": "/UsStates/FederalAid",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Federal Land",
+    "link": "/UsStates/FederalLand",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Fireworks Laws",
+    "link": "/UsStates/FireworksLaws",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Flattest",
+    "link": "/UsStates/Flattest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Food Stamp Benefits",
+    "link": "/UsStates/FoodStampBenefits",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Friendliest",
+    "link": "/UsStates/Friendliest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Frost Lines",
+    "link": "/UsStates/FrostLines",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "GDP",
+    "link": "/UsStates/GDP",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "GDP Growth",
+    "link": "/UsStates/GDPGrowth",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gas Price",
+    "link": "/UsStates/GasPrice",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gas Taxes",
+    "link": "/UsStates/GasTaxes",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gay Population",
+    "link": "/UsStates/GayPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gun Deaths Per Capita",
+    "link": "/UsStates/GunDeathsPerCapita",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gun Ownership",
+    "link": "/UsStates/GunOwnership",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Gun Violence",
+    "link": "/UsStates/GunViolence",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Guns Per Capita",
+    "link": "/UsStates/GunsPerCapita",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "HIV Rates",
+    "link": "/UsStates/HIVRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Happiest",
+    "link": "/UsStates/Happiest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Healthiest",
+    "link": "/UsStates/Healthiest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Helmet Law",
+    "link": "/UsStates/HelmetLaw",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "High School Graduation",
+    "link": "/UsStates/HighSchoolGraduation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Highest Taxed",
+    "link": "/UsStates/HighestTaxed",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Hispanic Population",
+    "link": "/UsStates/HispanicPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Homeless Population",
+    "link": "/UsStates/HomelessPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Homestead Exemptions",
+    "link": "/UsStates/HomesteadExemptions",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Hottest",
+    "link": "/UsStates/Hottest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Human Trafficking Statistics",
+    "link": "/UsStates/HumanTraffickingStatistics",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "I-Pass",
+    "link": "/UsStates/I-Pass",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Illegal to Collect Rainwater",
+    "link": "/UsStates/IllegaltoCollectRainwater",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "In N Out",
+    "link": "/UsStates/InNOut",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Incest Laws",
+    "link": "/UsStates/IncestLaws",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Infant Mortality",
+    "link": "/UsStates/InfantMortality",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Jewish Population",
+    "link": "/UsStates/JewishPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Job Growth",
+    "link": "/UsStates/JobGrowth",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Korea Veterans",
+    "link": "/UsStates/KoreaVeterans",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Largemouth Bass Record",
+    "link": "/UsStates/LargemouthBassRecord",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Largest by Area",
+    "link": "/UsStates/LargestbyArea",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Least Educated",
+    "link": "/UsStates/LeastEducated",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Least Expensive",
+    "link": "/UsStates/LeastExpensive",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Least Humid",
+    "link": "/UsStates/LeastHumid",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Least Racist",
+    "link": "/UsStates/LeastRacist",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Least Taxed",
+    "link": "/UsStates/LeastTaxed",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Legal Babysitting Age",
+    "link": "/UsStates/LegalBabysittingAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Life Expectancy",
+    "link": "/UsStates/LifeExpectancy",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "List of Army Reserves Units",
+    "link": "/UsStates/ListofArmyReservesUnits",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Literacy Rate",
+    "link": "/UsStates/LiteracyRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Livable Wage",
+    "link": "/UsStates/LivableWage",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "MPRE Scores",
+    "link": "/UsStates/MPREScores",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Magazine Restrictions",
+    "link": "/UsStates/MagazineRestrictions",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Male to Female Ratio",
+    "link": "/UsStates/MaletoFemaleRatio",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Marriage Age",
+    "link": "/UsStates/MarriageAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Mass Shootings",
+    "link": "/UsStates/MassShootings",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Maternal Mortality Rate",
+    "link": "/UsStates/MaternalMortalityRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Median Age",
+    "link": "/UsStates/MedianAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Median Home Price",
+    "link": "/UsStates/MedianHomePrice",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Median Household Income",
+    "link": "/UsStates/MedianHouseholdIncome",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Medical Marijuana",
+    "link": "/UsStates/MedicalMarijuana",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Minimum Wage",
+    "link": "/UsStates/MinimumWage",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Minimum Working Age",
+    "link": "/UsStates/MinimumWorkingAge",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Missing Persons",
+    "link": "/UsStates/MissingPersons",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Mormon Population",
+    "link": "/UsStates/MormonPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Charitable",
+    "link": "/UsStates/MostCharitable",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Conservative Citites",
+    "link": "/UsStates/MostConservativeCitites",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Corrupt",
+    "link": "/UsStates/MostCorrupt",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Dangerious States",
+    "link": "/UsStates/MostDangeriousStates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Dangerous Cities",
+    "link": "/UsStates/MostDangerousCities",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Diverse",
+    "link": "/UsStates/MostDiverse",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Educated",
+    "link": "/UsStates/MostEducated",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Expensive To Live In",
+    "link": "/UsStates/MostExpensiveToLiveIn",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Forested",
+    "link": "/UsStates/MostForested",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Liberal",
+    "link": "/UsStates/MostLiberal",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Libertarian",
+    "link": "/UsStates/MostLibertarian",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Mountainous",
+    "link": "/UsStates/MostMountainous",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Obese",
+    "link": "/UsStates/MostObese",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Patriotic",
+    "link": "/UsStates/MostPatriotic",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Popular",
+    "link": "/UsStates/MostPopular",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Racist",
+    "link": "/UsStates/MostRacist",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Redneck",
+    "link": "/UsStates/MostRedneck",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Religious",
+    "link": "/UsStates/MostReligious",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Most Stressful",
+    "link": "/UsStates/MostStressful",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Murder Rate",
+    "link": "/UsStates/MurderRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Muslim Population",
+    "link": "/UsStates/MuslimPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Mutual Combat",
+    "link": "/UsStates/MutualCombat",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "NBA Teams",
+    "link": "/UsStates/NBATeams",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "NFC Teams",
+    "link": "/UsStates/NFCTeams",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "NFL Teams",
+    "link": "/UsStates/NFLTeams",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "National Parks",
+    "link": "/UsStates/NationalParks",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Native American Population",
+    "link": "/UsStates/NativeAmericanPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Non-Extradition",
+    "link": "/UsStates/Non-Extradition",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Nuclear Power Plants",
+    "link": "/UsStates/NuclearPowerPlants",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Number of Days in School Year",
+    "link": "/UsStates/NumberofDaysinSchoolYear",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Number of Representatives",
+    "link": "/UsStates/NumberofRepresentatives",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Nursing Home Cost",
+    "link": "/UsStates/NursingHomeCost",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Obesity Rate",
+    "link": "/UsStates/ObesityRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Oil Production",
+    "link": "/UsStates/OilProduction",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Oldest",
+    "link": "/UsStates/Oldest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "One-Party Consent",
+    "link": "/UsStates/One-PartyConsent",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Open Carry",
+    "link": "/UsStates/OpenCarry",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Per Capita Income",
+    "link": "/UsStates/PerCapitaIncome",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Per Pupil Spending",
+    "link": "/UsStates/PerPupilSpending",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Pet Fox",
+    "link": "/UsStates/PetFox",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Pet Monkey",
+    "link": "/UsStates/PetMonkey",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Pet Ownership Statistics",
+    "link": "/UsStates/PetOwnershipStatistics",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Pet Raccoon",
+    "link": "/UsStates/PetRaccoon",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Poorest",
+    "link": "/UsStates/Poorest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Population Density",
+    "link": "/UsStates/PopulationDensity",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Poverty Rate",
+    "link": "/UsStates/PovertyRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Prison Population",
+    "link": "/UsStates/PrisonPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Public School Rankings",
+    "link": "/UsStates/PublicSchoolRankings",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Radar Detectors are Illegal",
+    "link": "/UsStates/RadarDetectorsareIllegal",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Rape Statistics",
+    "link": "/UsStates/RapeStatistics",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Republican",
+    "link": "/UsStates/Republican",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Required School Days",
+    "link": "/UsStates/RequiredSchoolDays",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Retirement Taxes",
+    "link": "/UsStates/RetirementTaxes",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "SAT Scores",
+    "link": "/UsStates/SATScores",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "STD Rates",
+    "link": "/UsStates/STDRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Safest States",
+    "link": "/UsStates/SafestStates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Sales Tax",
+    "link": "/UsStates/SalesTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Same Sex Marriages",
+    "link": "/UsStates/SameSexMarriages",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "School Shootings",
+    "link": "/UsStates/SchoolShootings",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Series Killers",
+    "link": "/UsStates/SeriesKillers",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Smartest",
+    "link": "/UsStates/Smartest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Smoking Rates",
+    "link": "/UsStates/SmokingRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Snowiest",
+    "link": "/UsStates/Snowiest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Stand Your Ground",
+    "link": "/UsStates/StandYourGround",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "States with Open Primaries",
+    "link": "/UsStates/StateswithOpenPrimaries",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Strictest Gun Laws",
+    "link": "/UsStates/StrictestGunLaws",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Student Loan Debt",
+    "link": "/UsStates/StudentLoanDebt",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Suicide",
+    "link": "/UsStates/Suicide",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Swing",
+    "link": "/UsStates/Swing",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Tax Burden",
+    "link": "/UsStates/TaxBurden",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Tax Rates",
+    "link": "/UsStates/TaxRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Taxes on Lottery Winnings",
+    "link": "/UsStates/TaxesonLotteryWinnings",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Teachers Pay",
+    "link": "/UsStates/TeachersPay",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Teen Pregnancy Rates",
+    "link": "/UsStates/TeenPregnancyRates",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Transgender Population",
+    "link": "/UsStates/TransgenderPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Trump Approval Rating",
+    "link": "/UsStates/TrumpApprovalRating",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Unemployment Rate",
+    "link": "/UsStates/UnemploymentRate",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Unemplyoment Benefits",
+    "link": "/UsStates/UnemplyomentBenefits",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Veteran Population",
+    "link": "/UsStates/VeteranPopulation",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Vietnam Veterans",
+    "link": "/UsStates/VietnamVeterans",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Vietnam War Casualties",
+    "link": "/UsStates/VietnamWarCasualties",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "WW2 Casualties",
+    "link": "/UsStates/WW2Casualties",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Water Prices",
+    "link": "/UsStates/WaterPrices",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Welfare Recipients",
+    "link": "/UsStates/WelfareRecipients",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "What Age Can A Child Stay Home Alone",
+    "link": "/UsStates/WhatAgeCanAChildStayHomeAlone",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Where You Can't Pump Your Own Gas",
+    "link": "/UsStates/WhereYouCan'tPumpYourOwnGas",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Whitest",
+    "link": "/UsStates/Whitest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Winner Take All",
+    "link": "/UsStates/WinnerTakeAll",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "With No Income Tax",
+    "link": "/UsStates/WithNoIncomeTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "With No Property Tax",
+    "link": "/UsStates/WithNoPropertyTax",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Worst Drivers",
+    "link": "/UsStates/WorstDrivers",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Worst To Live In",
+    "link": "/UsStates/WorstToLiveIn",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Worst To Retire",
+    "link": "/UsStates/WorstToRetire",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Youngest",
+    "link": "/UsStates/Youngest",
+    "linkType": "StateDataTopic"
+  },
+  {
+    "title": "Afghanistan",
+    "link": "/entity/EachCountry/Afghanistan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Albania",
+    "link": "/entity/EachCountry/Albania",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Algeria",
+    "link": "/entity/EachCountry/Algeria",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "American Samoa",
+    "link": "/entity/EachCountry/AmericanSamoa",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Andorra",
+    "link": "/entity/EachCountry/Andorra",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Angola",
+    "link": "/entity/EachCountry/Angola",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Anguilla",
+    "link": "/entity/EachCountry/Anguilla",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Antigua and Barbuda",
+    "link": "/entity/EachCountry/AntiguaandBarbuda",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Argentina",
+    "link": "/entity/EachCountry/Argentina",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Armenia",
+    "link": "/entity/EachCountry/Armenia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Aruba",
+    "link": "/entity/EachCountry/Aruba",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Australia",
+    "link": "/entity/EachCountry/Australia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Austria",
+    "link": "/entity/EachCountry/Austria",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Azerbaijan",
+    "link": "/entity/EachCountry/Azerbaijan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bahamas",
+    "link": "/entity/EachCountry/Bahamas",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bahrain",
+    "link": "/entity/EachCountry/Bahrain",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bangladesh",
+    "link": "/entity/EachCountry/Bangladesh",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Barbados",
+    "link": "/entity/EachCountry/Barbados",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Belarus",
+    "link": "/entity/EachCountry/Belarus",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Belgium",
+    "link": "/entity/EachCountry/Belgium",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Belize",
+    "link": "/entity/EachCountry/Belize",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Benin",
+    "link": "/entity/EachCountry/Benin",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bermuda",
+    "link": "/entity/EachCountry/Bermuda",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bhutan",
+    "link": "/entity/EachCountry/Bhutan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bolivia (Plurinational State of)",
+    "link": "/entity/EachCountry/Bolivia(PlurinationalStateof)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bonaire, Sint Eustatius and Saba",
+    "link": "/entity/EachCountry/Bonaire,SintEustatiusandSaba",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bosnia and Herzegovina",
+    "link": "/entity/EachCountry/BosniaandHerzegovina",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Botswana",
+    "link": "/entity/EachCountry/Botswana",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Brazil",
+    "link": "/entity/EachCountry/Brazil",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "British Virgin Islands",
+    "link": "/entity/EachCountry/BritishVirginIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Brunei Darussalam",
+    "link": "/entity/EachCountry/BruneiDarussalam",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Bulgaria",
+    "link": "/entity/EachCountry/Bulgaria",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Burkina Faso",
+    "link": "/entity/EachCountry/BurkinaFaso",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Burundi",
+    "link": "/entity/EachCountry/Burundi",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cabo Verde",
+    "link": "/entity/EachCountry/CaboVerde",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cambodia",
+    "link": "/entity/EachCountry/Cambodia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cameroon",
+    "link": "/entity/EachCountry/Cameroon",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Canada",
+    "link": "/entity/EachCountry/Canada",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cayman Islands",
+    "link": "/entity/EachCountry/CaymanIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Central African Republic",
+    "link": "/entity/EachCountry/CentralAfricanRepublic",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Chad",
+    "link": "/entity/EachCountry/Chad",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Chile",
+    "link": "/entity/EachCountry/Chile",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "China",
+    "link": "/entity/EachCountry/China",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "China, Hong Kong SAR",
+    "link": "/entity/EachCountry/China,HongKongSAR",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "China, Macao SAR",
+    "link": "/entity/EachCountry/China,MacaoSAR",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "China, Taiwan Province of China",
+    "link": "/entity/EachCountry/China,TaiwanProvinceofChina",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Colombia",
+    "link": "/entity/EachCountry/Colombia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Comoros",
+    "link": "/entity/EachCountry/Comoros",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Congo",
+    "link": "/entity/EachCountry/Congo",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cook Islands",
+    "link": "/entity/EachCountry/CookIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Costa Rica",
+    "link": "/entity/EachCountry/CostaRica",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Croatia",
+    "link": "/entity/EachCountry/Croatia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cuba",
+    "link": "/entity/EachCountry/Cuba",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cura\u00e7ao",
+    "link": "/entity/EachCountry/Cura\u00e7ao",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Cyprus",
+    "link": "/entity/EachCountry/Cyprus",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Czechia",
+    "link": "/entity/EachCountry/Czechia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "C\u00f4te d'Ivoire",
+    "link": "/entity/EachCountry/C\u00f4ted'Ivoire",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Dem. People's Republic of Korea",
+    "link": "/entity/EachCountry/Dem.People'sRepublicofKorea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Democratic Republic of the Congo",
+    "link": "/entity/EachCountry/DemocraticRepublicoftheCongo",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Denmark",
+    "link": "/entity/EachCountry/Denmark",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Djibouti",
+    "link": "/entity/EachCountry/Djibouti",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Dominica",
+    "link": "/entity/EachCountry/Dominica",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Dominican Republic",
+    "link": "/entity/EachCountry/DominicanRepublic",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Ecuador",
+    "link": "/entity/EachCountry/Ecuador",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Egypt",
+    "link": "/entity/EachCountry/Egypt",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "El Salvador",
+    "link": "/entity/EachCountry/ElSalvador",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Equatorial Guinea",
+    "link": "/entity/EachCountry/EquatorialGuinea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Eritrea",
+    "link": "/entity/EachCountry/Eritrea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Estonia",
+    "link": "/entity/EachCountry/Estonia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Eswatini",
+    "link": "/entity/EachCountry/Eswatini",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Ethiopia",
+    "link": "/entity/EachCountry/Ethiopia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Falkland Islands (Malvinas)",
+    "link": "/entity/EachCountry/FalklandIslands(Malvinas)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Faroe Islands",
+    "link": "/entity/EachCountry/FaroeIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Fiji",
+    "link": "/entity/EachCountry/Fiji",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Finland",
+    "link": "/entity/EachCountry/Finland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "France",
+    "link": "/entity/EachCountry/France",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "French Guiana",
+    "link": "/entity/EachCountry/FrenchGuiana",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "French Polynesia",
+    "link": "/entity/EachCountry/FrenchPolynesia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Gabon",
+    "link": "/entity/EachCountry/Gabon",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Gambia",
+    "link": "/entity/EachCountry/Gambia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Georgia",
+    "link": "/entity/EachCountry/Georgia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Germany",
+    "link": "/entity/EachCountry/Germany",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Ghana",
+    "link": "/entity/EachCountry/Ghana",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Gibraltar",
+    "link": "/entity/EachCountry/Gibraltar",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Greece",
+    "link": "/entity/EachCountry/Greece",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Greenland",
+    "link": "/entity/EachCountry/Greenland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Grenada",
+    "link": "/entity/EachCountry/Grenada",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guadeloupe",
+    "link": "/entity/EachCountry/Guadeloupe",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guam",
+    "link": "/entity/EachCountry/Guam",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guatemala",
+    "link": "/entity/EachCountry/Guatemala",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guernsey",
+    "link": "/entity/EachCountry/Guernsey",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guinea",
+    "link": "/entity/EachCountry/Guinea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guinea-Bissau",
+    "link": "/entity/EachCountry/Guinea-Bissau",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Guyana",
+    "link": "/entity/EachCountry/Guyana",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Haiti",
+    "link": "/entity/EachCountry/Haiti",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Holy See",
+    "link": "/entity/EachCountry/HolySee",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Honduras",
+    "link": "/entity/EachCountry/Honduras",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Hungary",
+    "link": "/entity/EachCountry/Hungary",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Iceland",
+    "link": "/entity/EachCountry/Iceland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "India",
+    "link": "/entity/EachCountry/India",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Indonesia",
+    "link": "/entity/EachCountry/Indonesia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Iran (Islamic Republic of)",
+    "link": "/entity/EachCountry/Iran(IslamicRepublicof)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Iraq",
+    "link": "/entity/EachCountry/Iraq",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Ireland",
+    "link": "/entity/EachCountry/Ireland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Isle of Man",
+    "link": "/entity/EachCountry/IsleofMan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Israel",
+    "link": "/entity/EachCountry/Israel",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Italy",
+    "link": "/entity/EachCountry/Italy",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Jamaica",
+    "link": "/entity/EachCountry/Jamaica",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Japan",
+    "link": "/entity/EachCountry/Japan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Jersey",
+    "link": "/entity/EachCountry/Jersey",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Jordan",
+    "link": "/entity/EachCountry/Jordan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kazakhstan",
+    "link": "/entity/EachCountry/Kazakhstan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kenya",
+    "link": "/entity/EachCountry/Kenya",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kiribati",
+    "link": "/entity/EachCountry/Kiribati",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kosovo (under UNSC res. 1244)",
+    "link": "/entity/EachCountry/Kosovo(underUNSCres.1244)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kuwait",
+    "link": "/entity/EachCountry/Kuwait",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Kyrgyzstan",
+    "link": "/entity/EachCountry/Kyrgyzstan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Lao People's Democratic Republic",
+    "link": "/entity/EachCountry/LaoPeople'sDemocraticRepublic",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Latvia",
+    "link": "/entity/EachCountry/Latvia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Lebanon",
+    "link": "/entity/EachCountry/Lebanon",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Lesotho",
+    "link": "/entity/EachCountry/Lesotho",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Liberia",
+    "link": "/entity/EachCountry/Liberia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Libya",
+    "link": "/entity/EachCountry/Libya",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Liechtenstein",
+    "link": "/entity/EachCountry/Liechtenstein",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Lithuania",
+    "link": "/entity/EachCountry/Lithuania",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Luxembourg",
+    "link": "/entity/EachCountry/Luxembourg",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Madagascar",
+    "link": "/entity/EachCountry/Madagascar",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Malawi",
+    "link": "/entity/EachCountry/Malawi",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Malaysia",
+    "link": "/entity/EachCountry/Malaysia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Maldives",
+    "link": "/entity/EachCountry/Maldives",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mali",
+    "link": "/entity/EachCountry/Mali",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Malta",
+    "link": "/entity/EachCountry/Malta",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Marshall Islands",
+    "link": "/entity/EachCountry/MarshallIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Martinique",
+    "link": "/entity/EachCountry/Martinique",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mauritania",
+    "link": "/entity/EachCountry/Mauritania",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mauritius",
+    "link": "/entity/EachCountry/Mauritius",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mayotte",
+    "link": "/entity/EachCountry/Mayotte",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mexico",
+    "link": "/entity/EachCountry/Mexico",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Micronesia (Fed. States of)",
+    "link": "/entity/EachCountry/Micronesia(Fed.Statesof)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Monaco",
+    "link": "/entity/EachCountry/Monaco",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mongolia",
+    "link": "/entity/EachCountry/Mongolia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Montenegro",
+    "link": "/entity/EachCountry/Montenegro",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Montserrat",
+    "link": "/entity/EachCountry/Montserrat",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Morocco",
+    "link": "/entity/EachCountry/Morocco",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Mozambique",
+    "link": "/entity/EachCountry/Mozambique",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Myanmar",
+    "link": "/entity/EachCountry/Myanmar",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Namibia",
+    "link": "/entity/EachCountry/Namibia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Nauru",
+    "link": "/entity/EachCountry/Nauru",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Nepal",
+    "link": "/entity/EachCountry/Nepal",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Netherlands",
+    "link": "/entity/EachCountry/Netherlands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "New Caledonia",
+    "link": "/entity/EachCountry/NewCaledonia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "New Zealand",
+    "link": "/entity/EachCountry/NewZealand",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Nicaragua",
+    "link": "/entity/EachCountry/Nicaragua",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Niger",
+    "link": "/entity/EachCountry/Niger",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Nigeria",
+    "link": "/entity/EachCountry/Nigeria",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Niue",
+    "link": "/entity/EachCountry/Niue",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "North Macedonia",
+    "link": "/entity/EachCountry/NorthMacedonia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Northern Mariana Islands",
+    "link": "/entity/EachCountry/NorthernMarianaIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Norway",
+    "link": "/entity/EachCountry/Norway",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Oman",
+    "link": "/entity/EachCountry/Oman",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Pakistan",
+    "link": "/entity/EachCountry/Pakistan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Palau",
+    "link": "/entity/EachCountry/Palau",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Panama",
+    "link": "/entity/EachCountry/Panama",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Papua New Guinea",
+    "link": "/entity/EachCountry/PapuaNewGuinea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Paraguay",
+    "link": "/entity/EachCountry/Paraguay",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Peru",
+    "link": "/entity/EachCountry/Peru",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Philippines",
+    "link": "/entity/EachCountry/Philippines",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Poland",
+    "link": "/entity/EachCountry/Poland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Portugal",
+    "link": "/entity/EachCountry/Portugal",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Puerto Rico",
+    "link": "/entity/EachCountry/PuertoRico",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Qatar",
+    "link": "/entity/EachCountry/Qatar",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Republic of Korea",
+    "link": "/entity/EachCountry/RepublicofKorea",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Republic of Moldova",
+    "link": "/entity/EachCountry/RepublicofMoldova",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Romania",
+    "link": "/entity/EachCountry/Romania",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Russian Federation",
+    "link": "/entity/EachCountry/RussianFederation",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Rwanda",
+    "link": "/entity/EachCountry/Rwanda",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "R\u00e9union",
+    "link": "/entity/EachCountry/R\u00e9union",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Barth\u00e9lemy",
+    "link": "/entity/EachCountry/SaintBarth\u00e9lemy",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Helena",
+    "link": "/entity/EachCountry/SaintHelena",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Kitts and Nevis",
+    "link": "/entity/EachCountry/SaintKittsandNevis",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Lucia",
+    "link": "/entity/EachCountry/SaintLucia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Martin (French part)",
+    "link": "/entity/EachCountry/SaintMartin(Frenchpart)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Pierre and Miquelon",
+    "link": "/entity/EachCountry/SaintPierreandMiquelon",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saint Vincent and the Grenadines",
+    "link": "/entity/EachCountry/SaintVincentandtheGrenadines",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Samoa",
+    "link": "/entity/EachCountry/Samoa",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "San Marino",
+    "link": "/entity/EachCountry/SanMarino",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sao Tome and Principe",
+    "link": "/entity/EachCountry/SaoTomeandPrincipe",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Saudi Arabia",
+    "link": "/entity/EachCountry/SaudiArabia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Senegal",
+    "link": "/entity/EachCountry/Senegal",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Serbia",
+    "link": "/entity/EachCountry/Serbia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Seychelles",
+    "link": "/entity/EachCountry/Seychelles",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sierra Leone",
+    "link": "/entity/EachCountry/SierraLeone",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Singapore",
+    "link": "/entity/EachCountry/Singapore",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sint Maarten (Dutch part)",
+    "link": "/entity/EachCountry/SintMaarten(Dutchpart)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Slovakia",
+    "link": "/entity/EachCountry/Slovakia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Slovenia",
+    "link": "/entity/EachCountry/Slovenia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Solomon Islands",
+    "link": "/entity/EachCountry/SolomonIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Somalia",
+    "link": "/entity/EachCountry/Somalia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "South Africa",
+    "link": "/entity/EachCountry/SouthAfrica",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "South Sudan",
+    "link": "/entity/EachCountry/SouthSudan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Spain",
+    "link": "/entity/EachCountry/Spain",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sri Lanka",
+    "link": "/entity/EachCountry/SriLanka",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "State of Palestine",
+    "link": "/entity/EachCountry/StateofPalestine",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sudan",
+    "link": "/entity/EachCountry/Sudan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Suriname",
+    "link": "/entity/EachCountry/Suriname",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Sweden",
+    "link": "/entity/EachCountry/Sweden",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Switzerland",
+    "link": "/entity/EachCountry/Switzerland",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Syrian Arab Republic",
+    "link": "/entity/EachCountry/SyrianArabRepublic",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Tajikistan",
+    "link": "/entity/EachCountry/Tajikistan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Thailand",
+    "link": "/entity/EachCountry/Thailand",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Timor-Leste",
+    "link": "/entity/EachCountry/Timor-Leste",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Togo",
+    "link": "/entity/EachCountry/Togo",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Tokelau",
+    "link": "/entity/EachCountry/Tokelau",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Tonga",
+    "link": "/entity/EachCountry/Tonga",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Trinidad and Tobago",
+    "link": "/entity/EachCountry/TrinidadandTobago",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Tunisia",
+    "link": "/entity/EachCountry/Tunisia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Turkmenistan",
+    "link": "/entity/EachCountry/Turkmenistan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Turks and Caicos Islands",
+    "link": "/entity/EachCountry/TurksandCaicosIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Tuvalu",
+    "link": "/entity/EachCountry/Tuvalu",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "T\u00fcrkiye",
+    "link": "/entity/EachCountry/T\u00fcrkiye",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Uganda",
+    "link": "/entity/EachCountry/Uganda",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Ukraine",
+    "link": "/entity/EachCountry/Ukraine",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "United Arab Emirates",
+    "link": "/entity/EachCountry/UnitedArabEmirates",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "United Kingdom",
+    "link": "/entity/EachCountry/UnitedKingdom",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "United Republic of Tanzania",
+    "link": "/entity/EachCountry/UnitedRepublicofTanzania",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "United States Virgin Islands",
+    "link": "/entity/EachCountry/UnitedStatesVirginIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "United States of America",
+    "link": "/entity/EachCountry/UnitedStatesofAmerica",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Uruguay",
+    "link": "/entity/EachCountry/Uruguay",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Uzbekistan",
+    "link": "/entity/EachCountry/Uzbekistan",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Vanuatu",
+    "link": "/entity/EachCountry/Vanuatu",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Venezuela (Bolivarian Republic of)",
+    "link": "/entity/EachCountry/Venezuela(BolivarianRepublicof)",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Viet Nam",
+    "link": "/entity/EachCountry/VietNam",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Wallis and Futuna Islands",
+    "link": "/entity/EachCountry/WallisandFutunaIslands",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Western Sahara",
+    "link": "/entity/EachCountry/WesternSahara",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Yemen",
+    "link": "/entity/EachCountry/Yemen",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Zambia",
+    "link": "/entity/EachCountry/Zambia",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Zimbabwe",
+    "link": "/entity/EachCountry/Zimbabwe",
+    "linkType": "CountryName"
+  },
+  {
+    "title": "Alabama",
+    "link": "/entity/EachState/Alabama",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Alaska",
+    "link": "/entity/EachState/Alaska",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Arizona",
+    "link": "/entity/EachState/Arizona",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Arkansas",
+    "link": "/entity/EachState/Arkansas",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "California",
+    "link": "/entity/EachState/California",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Colorado",
+    "link": "/entity/EachState/Colorado",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Connecticut",
+    "link": "/entity/EachState/Connecticut",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Delaware",
+    "link": "/entity/EachState/Delaware",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Florida",
+    "link": "/entity/EachState/Florida",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Georgia",
+    "link": "/entity/EachState/Georgia",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Hawaii",
+    "link": "/entity/EachState/Hawaii",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Idaho",
+    "link": "/entity/EachState/Idaho",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Illinois",
+    "link": "/entity/EachState/Illinois",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Indiana",
+    "link": "/entity/EachState/Indiana",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Iowa",
+    "link": "/entity/EachState/Iowa",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Kansas",
+    "link": "/entity/EachState/Kansas",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Kentucky",
+    "link": "/entity/EachState/Kentucky",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Louisiana",
+    "link": "/entity/EachState/Louisiana",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Maine",
+    "link": "/entity/EachState/Maine",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Maryland",
+    "link": "/entity/EachState/Maryland",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Massachusetts",
+    "link": "/entity/EachState/Massachusetts",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Michigan",
+    "link": "/entity/EachState/Michigan",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Minnesota",
+    "link": "/entity/EachState/Minnesota",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Mississippi",
+    "link": "/entity/EachState/Mississippi",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Missouri",
+    "link": "/entity/EachState/Missouri",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Montana",
+    "link": "/entity/EachState/Montana",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Nebraska",
+    "link": "/entity/EachState/Nebraska",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Nevada",
+    "link": "/entity/EachState/Nevada",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "New Hampshire",
+    "link": "/entity/EachState/NewHampshire",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "New Jersey",
+    "link": "/entity/EachState/NewJersey",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "New Mexico",
+    "link": "/entity/EachState/NewMexico",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "New York",
+    "link": "/entity/EachState/NewYork",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "North Carolina",
+    "link": "/entity/EachState/NorthCarolina",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "North Dakota",
+    "link": "/entity/EachState/NorthDakota",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Ohio",
+    "link": "/entity/EachState/Ohio",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Oklahoma",
+    "link": "/entity/EachState/Oklahoma",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Oregon",
+    "link": "/entity/EachState/Oregon",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Pennsylvania",
+    "link": "/entity/EachState/Pennsylvania",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Rhode Island",
+    "link": "/entity/EachState/RhodeIsland",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "South Carolina",
+    "link": "/entity/EachState/SouthCarolina",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "South Dakota",
+    "link": "/entity/EachState/SouthDakota",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Tennessee",
+    "link": "/entity/EachState/Tennessee",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Texas",
+    "link": "/entity/EachState/Texas",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Utah",
+    "link": "/entity/EachState/Utah",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Vermont",
+    "link": "/entity/EachState/Vermont",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Virginia",
+    "link": "/entity/EachState/Virginia",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Washington",
+    "link": "/entity/EachState/Washington",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "West Virginia",
+    "link": "/entity/EachState/WestVirginia",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Wisconsin",
+    "link": "/entity/EachState/Wisconsin",
+    "linkType": "UsStateName"
+  },
+  {
+    "title": "Wyoming",
+    "link": "/entity/EachState/Wyoming",
+    "linkType": "UsStateName"
+  }
+]

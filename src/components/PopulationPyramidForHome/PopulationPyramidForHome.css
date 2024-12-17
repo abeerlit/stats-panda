@@ -1,0 +1,38 @@
+/* PopulationPyramidForHome.css */
+.grid line {
+  stroke: #e0e0e0;
+}
+
+.axis-label {
+  font-size: 12px;
+  fill: #666;
+}
+
+.x-axis path,
+.y-axis path,
+.x-axis line,
+.y-axis line {
+  stroke: #999;
+}
+
+.x-axis text,
+.y-axis text {
+  font-size: 11px;
+  fill: #666;
+}
+
+@media (max-width: 768px) {
+  .population-pyramid-home {
+    width: 90vw !important;
+    padding: 0.5rem;
+  }
+
+  .axis-label {
+    font-size: 10px;
+  }
+
+  .x-axis text,
+  .y-axis text {
+    font-size: 9px;
+  }
+}

@@ -1,0 +1,952 @@
+[
+  {
+    "title": "Abortion Legalities",
+    "link": "/Countries/AbortionLegalities",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Abortion Rates",
+    "link": "/Countries/AbortionRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Age of Consent",
+    "link": "/Countries/AgeofConsent",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Aircraft Carriers",
+    "link": "/Countries/AircraftCarriers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Alcohol Consumption",
+    "link": "/Countries/AlcoholConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "ArableLand",
+    "link": "/Countries/ArableLand",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Autism Rates",
+    "link": "/Countries/AutismRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Age to Lose Virginity",
+    "link": "/Countries/AverageAgetoLoseVirginity",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Height",
+    "link": "/Countries/AverageHeight",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average IQ",
+    "link": "/Countries/AverageIQ",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Number of Sexual Partners",
+    "link": "/Countries/AverageNumberofSexualPartners",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Average Workweek",
+    "link": "/Countries/AverageWorkweek",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Banana Production",
+    "link": "/Countries/BananaProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Beer Consumption",
+    "link": "/Countries/BeerConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Best Healthcare",
+    "link": "/Countries/BestHealthcare",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Best to live in",
+    "link": "/Countries/Besttolivein",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "BigMac Index",
+    "link": "/Countries/BigMacIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Birth Rate",
+    "link": "/Countries/BirthRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Breast Size",
+    "link": "/Countries/BreastSize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "British Commonwealth",
+    "link": "/Countries/BritishCommonwealth",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Buddhist",
+    "link": "/Countries/Buddhist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "CO2 Emissions",
+    "link": "/Countries/CO2Emissions",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cancer Rate",
+    "link": "/Countries/CancerRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cancer Survival Rate",
+    "link": "/Countries/CancerSurvivalRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Capatalists",
+    "link": "/Countries/Capatalists",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Car Accidents",
+    "link": "/Countries/CarAccidents",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Catholic",
+    "link": "/Countries/Catholic",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cell Phones",
+    "link": "/Countries/CellPhones",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cheapest European",
+    "link": "/Countries/CheapestEuropean",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cheapest To Live In",
+    "link": "/Countries/CheapestToLiveIn",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Child trafficking",
+    "link": "/Countries/Childtrafficking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Children",
+    "link": "/Countries/Children",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Circumcision",
+    "link": "/Countries/Circumcision",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cleanest",
+    "link": "/Countries/Cleanest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cocoa Production",
+    "link": "/Countries/CocoaProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Coffee Consumption",
+    "link": "/Countries/CoffeConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Coffee Production ",
+    "link": "/Countries/CoffeeProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cooperate Tax Rates",
+    "link": "/Countries/CooperateTaxRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cost of Insulin",
+    "link": "/Countries/CostofInsulin",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Cost of Living",
+    "link": "/Countries/CostofLiving",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "CottonProduction",
+    "link": "/Countries/CottonProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Crime Rate ",
+    "link": "/Countries/CrimeRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Currently at War",
+    "link": "/Countries/CurrentlyatWar",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "D-Day Casualties",
+    "link": "/Countries/D-DayCasualties",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Death Rate",
+    "link": "/Countries/DeathRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Debt to GDP",
+    "link": "/Countries/DebttoGDP",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Declining Population",
+    "link": "/Countries/DecliningPopulation",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Democracy Index",
+    "link": "/Countries/DemocracyIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Depression Rate",
+    "link": "/Countries/DepressionRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Developed",
+    "link": "/Countries/Developed",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Diabetes Rates",
+    "link": "/Countries/DiabetesRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Divorce Rates",
+    "link": "/Countries/DivorceRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Dog Meat Consumption",
+    "link": "/Countries/DogMeatConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Drug Use",
+    "link": "/Countries/DrugUse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Education Rankings",
+    "link": "/Countries/EducationRankings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Employment in Agriculture by Country",
+    "link": "/Countries/EmploymentinAgriculturebyCountry",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "English Speaking",
+    "link": "/Countries/EnglishSpeaking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Exports",
+    "link": "/Countries/Exports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Facebook Users",
+    "link": "/Countries/FacebookUsers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fastest Growing Economies",
+    "link": "/Countries/FastestGrowingEconomies",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fertility Rates",
+    "link": "/Countries/FertilityRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Fifa World Cup Wins",
+    "link": "/Countries/FifaWorldCupWins",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Freedom Index",
+    "link": "/Countries/FreedomIndex",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Freest",
+    "link": "/Countries/Freest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Friendliest",
+    "link": "/Countries/Friendliest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "GDP",
+    "link": "/Countries/GDP",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "GDP Per Capita",
+    "link": "/Countries/GDPPerCapita",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gini Coefficient",
+    "link": "/Countries/GiniCoefficient",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gold Reserves",
+    "link": "/Countries/GoldReserves",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Greenhouse Gas Emissions",
+    "link": "/Countries/GreenhouseGasEmissions",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gun Deaths",
+    "link": "/Countries/GunDeaths",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Gun Ownership",
+    "link": "/Countries/GunOwnership",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "HDI",
+    "link": "/Countries/HDI",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "HIV Rates",
+    "link": "/Countries/HIVRates",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Happiest",
+    "link": "/Countries/Happiest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Healthcare Wait Times",
+    "link": "/Countries/HealthcareWaitTimes",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Healthiest",
+    "link": "/Countries/Healthiest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "High-Income",
+    "link": "/Countries/High-Income",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Highest Taxed Countries",
+    "link": "/Countries/HighestTaxedCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Hindu",
+    "link": "/Countries/Hindu",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Immidration",
+    "link": "/Countries/Immidration",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Infant Mortality Rate",
+    "link": "/Countries/InfantMortalityRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Inflation Rate",
+    "link": "/Countries/InflationRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Internet Speeds",
+    "link": "/Countries/InternetSpeeds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Internet Users",
+    "link": "/Countries/InternetUsers",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Jewish",
+    "link": "/Countries/Jewish",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Airforces",
+    "link": "/Countries/LargestAirforces",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Airports",
+    "link": "/Countries/LargestAirports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Largest Navy",
+    "link": "/Countries/LargestNavy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Latin Speaking",
+    "link": "/Countries/LatinSpeaking",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Corrupt",
+    "link": "/Countries/LeastCorrupt",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Racist",
+    "link": "/Countries/LeastRacist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Least Religious",
+    "link": "/Countries/LeastReligious",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Life Expectancy",
+    "link": "/Countries/LifeExpectancy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Literacy Rate",
+    "link": "/Countries/LiteracyRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Mass Shootings",
+    "link": "/Countries/MassShootings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Maternity Leave",
+    "link": "/Countries/MaternityLeave",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Meat Consumption",
+    "link": "/Countries/MeatConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Median Age",
+    "link": "/Countries/MedianAge",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Military Size",
+    "link": "/Countries/MilitarySize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Military Spending",
+    "link": "/Countries/MilitarySpending",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Millionaires",
+    "link": "/Countries/Millionaires",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Minimum Wage",
+    "link": "/Countries/MinimumWage",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Missing Persons",
+    "link": "/Countries/MissingPersons",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Monarchy",
+    "link": "/Countries/Monarchy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Christian",
+    "link": "/Countries/MostChristian",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Conservative",
+    "link": "/Countries/MostConservative",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Dangerous",
+    "link": "/Countries/MostDangerous",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Dangerous for Women",
+    "link": "/Countries/MostDangerousforWomen",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Depressed",
+    "link": "/Countries/MostDepressed",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Diverse",
+    "link": "/Countries/MostDiverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Educated",
+    "link": "/Countries/MostEducated",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Expensive to Live in",
+    "link": "/Countries/MostExpensivetoLivein",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Hated",
+    "link": "/Countries/MostHated",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Liberal ",
+    "link": "/Countries/MostLiberal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Miss Universe Winners",
+    "link": "/Countries/MostMissUniverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Peaceful",
+    "link": "/Countries/MostPeaceful",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Polluted",
+    "link": "/Countries/MostPolluted",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Popular Sports",
+    "link": "/Countries/MostPopularSports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Powerful",
+    "link": "/Countries/MostPowerful",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Racially Diverse",
+    "link": "/Countries/MostRaciallyDiverse",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Racist",
+    "link": "/Countries/MostRacist",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Technologically Advanced ",
+    "link": "/Countries/MostTechnologicallyAdvanced",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Violent",
+    "link": "/Countries/MostViolent",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Most Visited",
+    "link": "/Countries/MostVisited",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Murder Rate",
+    "link": "/Countries/MurderRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Muslim",
+    "link": "/Countries/Muslim",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Muslim Population",
+    "link": "/Countries/MuslimPopulation",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "NATO",
+    "link": "/Countries/NATO",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "NATO Spending",
+    "link": "/Countries/NATOSpending",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "National Debt",
+    "link": "/Countries/NationalDebt",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Newest",
+    "link": "/Countries/Newest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Nobel Prize Winners",
+    "link": "/Countries/NobelPrizeWinners",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Number of Olympic Medals",
+    "link": "/Countries/NumberofOlympicMedals",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Obesity Rate",
+    "link": "/Countries/ObesityRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oil Consumption",
+    "link": "/Countries/OilConsumption",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oil Reserves",
+    "link": "/Countries/OilReserves",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Oldest",
+    "link": "/Countries/Oldest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "PISA Scores",
+    "link": "/Countries/PISAScores",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Pennis Size",
+    "link": "/Countries/PennisSize",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Percentage of Redheads",
+    "link": "/Countries/PercentageofRedheads",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Poorest",
+    "link": "/Countries/Poorest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Population Density ",
+    "link": "/Countries/PopulationDensity",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Poverty Rate",
+    "link": "/Countries/PovertyRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Rape Statistics",
+    "link": "/Countries/RapeStatistics",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Religion By",
+    "link": "/Countries/ReligionBy",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Rice Production",
+    "link": "/Countries/RiceProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Richest",
+    "link": "/Countries/Richest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "STD Rate",
+    "link": "/Countries/STDRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Safest in the World",
+    "link": "/Countries/SafestintheWorld",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "School Shootings",
+    "link": "/Countries/SchoolShootings",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Sex Ratio",
+    "link": "/Countries/SexRatio",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Smartest",
+    "link": "/Countries/Smartest",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Smoking Rate",
+    "link": "/Countries/SmokingRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Soybean Production",
+    "link": "/Countries/SoybeanProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Stabbing Deaths",
+    "link": "/Countries/StabbingDeaths",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Submarines",
+    "link": "/Countries/Submarines",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Sugar Production",
+    "link": "/Countries/SugarProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Suicide Rate",
+    "link": "/Countries/SuicideRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Tax Free Countries",
+    "link": "/Countries/TaxFreeCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Tax Haven Countries",
+    "link": "/Countries/TaxHavenCountries",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Do Not Celebrate Christmas",
+    "link": "/Countries/ThatDoNotCelebrateChristmas",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Dont Use The Metric System",
+    "link": "/Countries/ThatDontUseTheMetricSystem",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Drive on Left",
+    "link": "/Countries/ThatDriveonLeft",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Drive on Right ",
+    "link": "/Countries/ThatDriveonRight",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Recognizes Taiwan",
+    "link": "/Countries/ThatRecognizesTaiwan",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Still Have Slavery",
+    "link": "/Countries/ThatStillHaveSlavery",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "That Use Farenheit",
+    "link": "/Countries/ThatUseFarenheit",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "U.S. Oil Imports",
+    "link": "/Countries/U.S.OilImports",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Unemployment",
+    "link": "/Countries/Unemployment",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Universal Healthcare",
+    "link": "/Countries/UniversalHealthcare",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Use of Dollar",
+    "link": "/Countries/UseofDollar",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Use of Pounds",
+    "link": "/Countries/UseofPounds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Violent Crime Rate",
+    "link": "/Countries/ViolentCrimeRate",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Voter Turnout",
+    "link": "/Countries/VoterTurnout",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "WW2 Casualties",
+    "link": "/Countries/WW2Casualties",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "WW3",
+    "link": "/Countries/WW3",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wealth Inequality",
+    "link": "/Countries/WealthInequality",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wheat Production",
+    "link": "/Countries/WheatProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where Alchohol is Illegal",
+    "link": "/Countries/WhereAlchoholisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where Prostitution is Illegal",
+    "link": "/Countries/WhereProstitutionisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where guns are illegal",
+    "link": "/Countries/Wheregunsareillegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Where porn is Illegal",
+    "link": "/Countries/WherepornisIllegal",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Wine Production",
+    "link": "/Countries/WineProduction",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Nuclear Weapons",
+    "link": "/Countries/WithNuclearWeapons",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Presidents",
+    "link": "/Countries/WithPresidents",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "With Royal Families",
+    "link": "/Countries/WithRoyalFamilies",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Without Extradition",
+    "link": "/Countries/WithoutExtradition",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Without McDonalds",
+    "link": "/Countries/WithoutMcDonalds",
+    "linkType": "CountryDataTopic"
+  },
+  {
+    "title": "Worst to Live In",
+    "link": "/Countries/WorsttoLiveIn",
+    "linkType": "CountryDataTopic"
+  }
+]

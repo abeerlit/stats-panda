@@ -1,0 +1,121 @@
+.chart-container {
+  width: 100%;
+  height: 40vh;
+  border-radius: 20px;
+  overflow: hidden;
+  background: white;
+  padding: 20px;
+  position: relative;
+}
+
+svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+.grid line {
+  stroke: #e5e5ea;
+  stroke-opacity: 0.5;
+  stroke-width: 0.5;
+  shape-rendering: crispEdges;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.axis path,
+.axis line {
+  stroke: #000;
+  stroke-width: 2;
+}
+
+.axis text {
+  font-size: 12px;
+  fill: #86868b;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+.axis-label {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  fill: #1d1d1f;
+  text-transform: uppercase;
+}
+
+.focusLine {
+  stroke-width: 1;
+}
+
+#focusLineX {
+  stroke: #ff4500;
+  stroke-dasharray: 4, 4;
+}
+
+#focusLineY {
+  stroke: #98989d;
+  stroke-dasharray: 4, 4;
+}
+
+.infoBox rect {
+  fill: white;
+  stroke: #e5e5ea;
+  stroke-width: 1;
+  opacity: 0.95;
+  rx: 8px;
+  ry: 8px;
+}
+
+.infoBox text {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  fill: #1d1d1f;
+  font-size: 12px;
+}
+
+.overlay {
+  fill: white;
+  pointer-events: all;
+}
+
+.pulsing-dot {
+  animation: pulse 2s infinite;
+  fill: #20b2aa;
+}
+
+@keyframes pulse {
+  0% {
+    r: 4;
+    opacity: 1;
+  }
+  50% {
+    r: 6;
+    opacity: 0.7;
+  }
+  100% {
+    r: 4;
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .chart-container {
+    /* width: 80vw !important; */
+    margin: 0 auto;
+  }
+
+  .content-right,
+  .main-entity-content {
+    width: 100vw !important;
+    max-width: 100vw !important;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    display: flex;
+    justify-content: center;
+  }
+}

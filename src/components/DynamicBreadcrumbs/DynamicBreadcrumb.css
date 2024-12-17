@@ -1,0 +1,14 @@
+.breadcrumb {
+  text-decoration: none;
+  color: #000;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.breadcrumb:hover {
+  color: #fc5736;
+}
+
+.breadcrumb:hover {
+  color: #fc5736;
+}

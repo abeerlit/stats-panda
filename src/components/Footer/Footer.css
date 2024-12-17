@@ -1,0 +1,36 @@
+/* Footer.css */
+
+.footer {
+  bottom: 0;
+  width: 100vw;
+  background-color: white;
+  padding: 10px 0;
+  box-shadow: 0 -5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 15px;
+}
+
+.footer li {
+  margin: 5px 10px;
+}
+
+.footer a {
+  color: inherit; /* Keep the default color */
+  text-decoration: none; /* Optional: remove underline */
+}
+
+.footer a:hover {
+  color: red;
+}
+.footer-bottom {
+  text-align: center;
+  margin-top: 10px;
+}

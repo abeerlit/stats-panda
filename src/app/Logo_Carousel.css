@@ -1,0 +1,62 @@
+/* Logo_Carousel.css */
+
+.logo-carousel {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100px; /* Adjust as needed */
+}
+
+.logo-carousel-track {
+  display: flex;
+  align-items: center;
+  /* Remove fixed width */
+  /* width: 3600px; */
+  flex-wrap: nowrap; /* Ensure items don't wrap */
+  animation: scroll 30s linear infinite;
+}
+
+.logo-item {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-logo {
+  max-height: 80px; /* Adjust as needed */
+  margin-right: 40px; /* Adjust as needed */
+  object-fit: contain;
+}
+
+/* Keyframes for infinite scrolling */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%); /* Move left by 50% of the total track width */
+  }
+}
+
+/* Fade Effect */
+.logo-carousel::before,
+.logo-carousel::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 100px;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.logo-carousel::before {
+  left: 0;
+  background: linear-gradient(to right, white, transparent);
+}
+
+.logo-carousel::after {
+  right: 0;
+  background: linear-gradient(to left, white, transparent);
+}

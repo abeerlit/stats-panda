@@ -1,0 +1,18 @@
+/* PopulationMap.css */
+
+svg {
+  background-color: #f0f0f0;
+}
+
+.legend rect {
+  stroke: #000;
+  stroke-width: 0.5px;
+}
+
+.legend text {
+  fill: #000;
+}
+
+.highlight {
+  background-color: #ffcccb;
+}
