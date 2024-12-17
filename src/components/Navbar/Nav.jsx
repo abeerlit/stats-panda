@@ -86,7 +86,6 @@ function Nav() {
             <Link href="/LiveCounters" onClick={toggleMenu}>
               Live Counters
             </Link>
-            Live Counters
           </li>
           {isDesktop ? (
             <li
